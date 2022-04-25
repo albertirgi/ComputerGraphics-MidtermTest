@@ -1,0 +1,59 @@
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\Kuliah\Semester 4\grafkom\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\Kuliah\Semester 4\grafkom\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\Kuliah\Semester 4\grafkom\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\Kuliah\Semester 4\grafkom\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 4\grafkom\Common\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 4\grafkom\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 4\grafkom\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Kuliah\Semester 4\grafkom\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\grafkom\Common\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\Kuliah\Semester 4\grafkom\Common\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\grafkom_fallguys\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb

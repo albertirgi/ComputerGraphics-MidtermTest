@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj",
+        "projectName": "LearnOpenTK.Common",
+        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\irgia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\irgia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj",
+        "projectName": "FallGuys",
+        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj",
+        "packagesPath": "C:\\Users\\irgia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\irgia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
