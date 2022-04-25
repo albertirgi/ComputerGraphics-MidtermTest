@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj": {}
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj": {
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj",
         "projectName": "LearnOpenTK.Common",
-        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\irgia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\obj\\",
+        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irgia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj": {
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj",
+        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj",
         "projectName": "FallGuys",
-        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj",
+        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Fall Guys\\FallGuys\\FallGuys\\FallGuys.csproj",
         "packagesPath": "C:\\Users\\irgia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Fall Guys\\FallGuys\\FallGuys\\obj\\",
+        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Fall Guys\\FallGuys\\FallGuys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irgia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj"
+              "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj"
               }
             }
           }

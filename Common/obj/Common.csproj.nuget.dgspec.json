@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj": {}
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj": {
+    "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj",
         "projectName": "LearnOpenTK.Common",
-        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\irgia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\grafkom_fallguys\\Common\\obj\\",
+        "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\UTS\\Project UTS\\fallguys\\grafkom_kelompok3\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irgia\\AppData\\Roaming\\NuGet\\NuGet.Config",

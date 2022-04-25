@@ -480,7 +480,8 @@ namespace FallGuys
             character.Add(badanSetengahLinkgaranAtas);
 
             var badanSetengahLingkaranBawah = new Asset3d(new Vector3(0.99f, 0.20f, 0.53f));
-            badanSetengahLingkaranBawah.createHalfEllipsoid(0.15f, 0.15f, 0.15f, 0.0f, 0.0f, 0.0f);
+            //badanSetengahLingkaranBawah.createHalfEllipsoid(0.15f, 0.15f, 0.15f, 0.0f, 0.0f, 0.0f); 
+            badanSetengahLingkaranBawah.createHalfEllipsoid(0f, 0f, 0f, 0.0f, 0.0f, 0.0f); //Agar warna tidak tembus
             badanSetengahLingkaranBawah.translate(0.0f, 0.0225f, 4.8f);
             badanSetengahLingkaranBawah.rotate(Vector3.Zero, Vector3.UnitZ, 180);
             character.Add(badanSetengahLingkaranBawah);
@@ -617,6 +618,44 @@ namespace FallGuys
 
             #endregion
 
+            #region kalung
+
+            var taliKalungKanan = new Asset3d(new Vector3(1.0f, 1.0f, 1.0f));
+            taliKalungKanan.prepareVertices();
+            taliKalungKanan.setControlCoordinate(0f, 0f, 0f);
+            taliKalungKanan.setControlCoordinate(0.1f, -0.005f, 0.025f);
+            taliKalungKanan.setControlCoordinate(0.33f, -0.025f, -0.2325f);
+            taliKalungKanan.setControlCoordinate(0.0f, -0.14f, -0.315f);
+            List<Vector3> _verticesBezierKanan = taliKalungKanan.createCurveBazier();
+            taliKalungKanan.setVertices(_verticesBezierKanan);
+            taliKalungKanan.translate(0.0f, 0.23f, 4.955f);
+            character.Add(taliKalungKanan);
+
+            var taliKalungKiri = new Asset3d(new Vector3(1.0f, 1.0f, 1.0f));
+            taliKalungKiri.prepareVertices();
+            taliKalungKiri.setControlCoordinate(0f, 0f, 0f);
+            taliKalungKiri.setControlCoordinate(-0.1f, -0.005f, 0.025f);
+            taliKalungKiri.setControlCoordinate(-0.33f, -0.025f, -0.2325f);
+            taliKalungKiri.setControlCoordinate(0.0f, -0.14f, -0.315f);
+            List<Vector3> _verticesBezierKiri = taliKalungKiri.createCurveBazier();
+            taliKalungKiri.setVertices(_verticesBezierKiri);
+            taliKalungKiri.translate(0.0f, 0.23f, 4.955f);
+            character.Add(taliKalungKiri);
+
+            var coinLuarKalung = new Asset3d(new Vector3(1.0f, 0.67f, 0.0f));
+            coinLuarKalung.createCylinder(0.04f, 0.007f, 0.0f, 0.0f, 0.0f);
+            coinLuarKalung.translate(0.0f, 4.64f, -0.05f);
+            coinLuarKalung.rotate(Vector3.Zero, Vector3.UnitX, 90);
+            character.Add(coinLuarKalung);
+            
+            var coinDalamKalung = new Asset3d(new Vector3(1.0f, 1.0f, 1.0f));
+            coinDalamKalung.createCylinder(0.02f, 0.007f, 0.0f, 0.0f, 0.0f);
+            coinDalamKalung.translate(0.0f, 4.635f, -0.05f);
+            coinDalamKalung.rotate(Vector3.Zero, Vector3.UnitX, 90);
+            character.Add(coinDalamKalung);
+
+            #endregion
+
             #endregion
 
             #region Load List Object
@@ -666,8 +705,7 @@ namespace FallGuys
                 i.rotate(listarena.ElementAt(0).objectCenter, Vector3.UnitY, 5 * time);
             }
 
-            #region Character Lompat
-            //ANIMASI LOMPAT CHARACTER
+            #region Animasi Character
             //Untuk Tangan, urutan: batas atas || batas bawah
             if (character.ElementAt(5).objectCenter.Y - character.ElementAt(1).objectCenter.Y > 0.3f || character.ElementAt(1).objectCenter.Y - character.ElementAt(5).objectCenter.Y > 0.3f)
             {
@@ -687,7 +725,23 @@ namespace FallGuys
                 character.ElementAt(4).rotate(character.ElementAt(1).objectCenter, Vector3.UnitX, speedTangan);
                 character.ElementAt(5).rotate(character.ElementAt(1).objectCenter, Vector3.UnitX, speedTangan);
 
-                Console.WriteLine("X: " + character.ElementAt(5).objectCenter.Y);
+                //Console.WriteLine("X: " + character.ElementAt(5).objectCenter.Y);
+
+                //counter++;
+                //character.ElementAt(24).scale(1.0008f, 1.0008f, 1);
+
+                //Console.WriteLine("Y " + i.objectCenter.Y);
+                //Console.WriteLine("Z " + i.objectCenter.Z);
+                //Console.WriteLine("Count " + counter);
+                //if (character.ElementAt(24).objectCenter.Z > 1f)
+                //{
+                //    double end = Math.Pow(1.0008, counter);
+                //    float reset_y = 0.70738404f;
+                //    float reset_z = -2.6526906f;
+                //    character.ElementAt(24).translate(0, reset_y, reset_z);
+                //    character.ElementAt(24).scale((float)(1.0008 / end), 1, 1);
+                //    counter = 0;
+                //}
             }
             #endregion
 

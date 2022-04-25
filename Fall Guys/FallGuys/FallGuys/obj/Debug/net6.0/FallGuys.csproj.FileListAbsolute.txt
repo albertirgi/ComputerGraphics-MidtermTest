@@ -106,3 +106,39 @@ D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Fall Guys\Fal
 D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\ref\FallGuys.dll
 D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.pdb
 D:\PETRA\Semester 4\VSCode Project File\ProyekUTS\grafkom_fallguys\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.genruntimeconfig.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.csproj.AssemblyReference.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.AssemblyInfoInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.AssemblyInfo.cs
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.csproj.CoreCompileInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\refint\FallGuys.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\FallGuys.exe
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\FallGuys.deps.json
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\FallGuys.runtimeconfig.json
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\FallGuys.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\FallGuys.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.csproj.CopyComplete
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\FallGuys.genruntimeconfig.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\UTS\Project UTS\fallguys\grafkom_kelompok3\Fall Guys\FallGuys\FallGuys\obj\Debug\net6.0\ref\FallGuys.dll
