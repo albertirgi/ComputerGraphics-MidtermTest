@@ -8,16 +8,19 @@
 
 ➡ Joshua Yordana - C14200020
 
+-------------------------------------------------------------------------------
 
 💩 Github 💩
 
 ➡ https://github.com/albertirgi/grafkom_kelompok3
 
+-------------------------------------------------------------------------------
 
 📄 Drive Laporan Grafkom 📄
 
 ➡ https://drive.google.com/drive/folders/1EOSfh_BjfKOU9PFET2SLVIfS6UaJIRSC?usp=sharing
 
+-------------------------------------------------------------------------------
 
 📹 Demo Video Proyek 📹
 
