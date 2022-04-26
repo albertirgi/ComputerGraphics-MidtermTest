@@ -30,6 +30,9 @@ namespace FallGuys
         float speedTangan = -0.07f;
         float speedLompat = 0.003f;
 
+        float scaleKalung = 0.0008f;
+        float scaleKalungCounter = 0;
+
         public Window(GameWindowSettings gameWindowSettings, NativeWindowSettings nativeWindowSettings) : base(gameWindowSettings, nativeWindowSettings)
         {
 
@@ -484,24 +487,40 @@ namespace FallGuys
             var taliBalon1 = new Asset3d(new Vector3(0.8f, 0f, 0f));
             taliBalon1.prepareVertices();
             taliBalon1.setControlCoordinate(0f, 0f, 0f);
-            taliBalon1.setControlCoordinate(0f, -0.175f, -0.5f);
-            taliBalon1.setControlCoordinate(0f, -0.525f, -0.5f);
-            taliBalon1.setControlCoordinate(0f, -0.7f, 0f);
+            taliBalon1.setControlCoordinate(0.2f, 0f, -0.8f);
+            taliBalon1.setControlCoordinate(1.8f, 0f, -0.8f);
+            taliBalon1.setControlCoordinate(2.06f, 0f, 0f);
             List<Vector3> _verticesBezierTaliBalon1 = taliBalon1.createCurveBazier();
             taliBalon1.setVertices(_verticesBezierTaliBalon1);
-            taliBalon1.translate(-0.77f, 2.15f, 0.7f);
+            taliBalon1.translate(-1.03f, 1.8f, 0.7f);
             balonudara.Add(taliBalon1);
 
             var taliBalon2 = new Asset3d(new Vector3(0.8f, 0f, 0f));
             taliBalon2.prepareVertices();
             taliBalon2.setControlCoordinate(0f, 0f, 0f);
-            taliBalon2.setControlCoordinate(0f, -0.175f, 0.5f);
-            taliBalon2.setControlCoordinate(0f, -0.525f, 0.5f);
-            taliBalon2.setControlCoordinate(0f, -0.7f, 0f);
+            taliBalon2.setControlCoordinate(0.2f, 0f, 0.8f);
+            taliBalon2.setControlCoordinate(1.8f, 0f, 0.8f);
+            taliBalon2.setControlCoordinate(2.06f, 0f, 0f);
             List<Vector3> _verticesBezierTaliBalon2 = taliBalon2.createCurveBazier();
             taliBalon2.setVertices(_verticesBezierTaliBalon2);
-            taliBalon2.translate(-0.77f, 2.15f, 0.7f);
+            taliBalon2.translate(-1.03f, 1.8f, 0.7f);
             balonudara.Add(taliBalon2);
+
+            var coneBalon = new Asset3d(new Vector3(0.8f, 0f, 0f));
+            coneBalon.createEllipticCone(0.10f, 0.10f, 0.30f, 0.0f, 0.0f, 0.0f, 100, 100);
+            coneBalon.translate(0.0f, 0.7f, -2.74f);
+            coneBalon.rotate(Vector3.Zero, Vector3.UnitX, 90f);
+            balonudara.Add(coneBalon);
+
+            var hiasanBalon1 = new Asset3d(new Vector3(1.0f, 1.0f, 1.0f));
+            hiasanBalon1.createEllipsoid(0.0f, 0.0f, 0.0f, 0.2f, 0.2f, 0.05f, 100, 100);
+            hiasanBalon1.translate(0.0f, 1.8f, 0.23f);
+            balonudara.Add(hiasanBalon1);
+
+            var hiasanBalon2 = new Asset3d(new Vector3(1.0f, 1.0f, 1.0f));
+            hiasanBalon2.createEllipsoid(0.0f, 0.0f, 0.0f, 0.2f, 0.2f, 0.05f, 100, 100);
+            hiasanBalon2.translate(0.0f, 1.8f, 1.17f);
+            balonudara.Add(hiasanBalon2);
 
             #endregion
 
@@ -741,7 +760,7 @@ namespace FallGuys
             foreach (Asset3d i in balonudara)
             {
                 i.render(_camera.GetViewMatrix(), _camera.GetProjectionMatrix());
-                i.rotate(listarena.ElementAt(0).objectCenter, Vector3.UnitY, 5 * time);
+                //i.rotate(listarena.ElementAt(0).objectCenter, Vector3.UnitY, 5 * time);
             }
 
             #region Animasi Character
@@ -755,6 +774,7 @@ namespace FallGuys
             {
                 speedLompat *= -1;
             }
+
             foreach (Asset3d i in character)
             {
                 i.render(_camera.GetViewMatrix(), _camera.GetProjectionMatrix());
@@ -767,20 +787,16 @@ namespace FallGuys
                 //Console.WriteLine("X: " + character.ElementAt(5).objectCenter.Y);
 
                 //counter++;
-                //character.ElementAt(24).scale(1.0008f, 1.0008f, 1);
+                character.ElementAt(24).scale(1 + scaleKalung, 1 + scaleKalung, 1);
+                scaleKalungCounter += scaleKalung;
 
                 //Console.WriteLine("Y " + i.objectCenter.Y);
                 //Console.WriteLine("Z " + i.objectCenter.Z);
                 //Console.WriteLine("Count " + counter);
-                //if (character.ElementAt(24).objectCenter.Z > 1f)
-                //{
-                //    double end = Math.Pow(1.0008, counter);
-                //    float reset_y = 0.70738404f;
-                //    float reset_z = -2.6526906f;
-                //    character.ElementAt(24).translate(0, reset_y, reset_z);
-                //    character.ElementAt(24).scale((float)(1.0008 / end), 1, 1);
-                //    counter = 0;
-                //}
+                if (scaleKalungCounter > 0.3f || scaleKalungCounter < -0.4)
+                {
+                    scaleKalung *= -1;
+                }
             }
             #endregion
 
