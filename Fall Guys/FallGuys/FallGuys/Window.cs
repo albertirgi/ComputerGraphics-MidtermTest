@@ -760,7 +760,7 @@ namespace FallGuys
             foreach (Asset3d i in balonudara)
             {
                 i.render(_camera.GetViewMatrix(), _camera.GetProjectionMatrix());
-                //i.rotate(listarena.ElementAt(0).objectCenter, Vector3.UnitY, 5 * time);
+                i.rotate(listarena.ElementAt(0).objectCenter, Vector3.UnitY, 5 * time);
             }
 
             #region Animasi Character
