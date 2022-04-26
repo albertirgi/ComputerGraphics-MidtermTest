@@ -786,7 +786,6 @@ namespace FallGuys
 
                 //Console.WriteLine("X: " + character.ElementAt(5).objectCenter.Y);
 
-                //counter++;
                 character.ElementAt(24).scale(1 + scaleKalung, 1 + scaleKalung, 1);
                 scaleKalungCounter += scaleKalung;
 
