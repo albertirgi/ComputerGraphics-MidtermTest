@@ -16,12 +16,18 @@
 
 -------------------------------------------------------------------------------
 
-📄 Drive Laporan Grafkom 📄
+📹 Demo Video Proyek 📹
+
+➡ https://youtu.be/E_j9AijKFGI
+
+-------------------------------------------------------------------------------
+
+📂 Drive Grafkom 📂
 
 ➡ https://drive.google.com/drive/folders/1EOSfh_BjfKOU9PFET2SLVIfS6UaJIRSC?usp=sharing
 
 -------------------------------------------------------------------------------
 
-📹 Demo Video Proyek 📹
+📄 Laporan Grafkom 📄
 
-➡ https://youtu.be/E_j9AijKFGI
+➡ https://docs.google.com/document/d/1-lY4Tdgr59_IrAQgXaqq_SbzhhxMIfpUZugQJnqUzW8/edit?usp=sharing
