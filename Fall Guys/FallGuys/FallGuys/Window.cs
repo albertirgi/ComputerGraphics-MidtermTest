@@ -309,6 +309,27 @@ namespace FallGuys
             pagar8.translate(0, -1.18f, 5.31f);
             listarena.Add(pagar8);
 
+            var pagarTali1 = new Asset3d(new Vector3(1, 0.854f, 0.752f));
+            pagarTali1.prepareVertices();
+            pagarTali1.setControlCoordinate(0.0f, 0.0f, 0.0f);
+            pagarTali1.setControlCoordinate(0.0f, 0.5f, 1.8f);
+            pagarTali1.setControlCoordinate(0.0f, -0.8f, 2.83f);
+            List<Vector3> _verticesBezierPagarTali1 = pagarTali1.createCurveBazier();
+            pagarTali1.setVertices(_verticesBezierPagarTali1);
+            pagarTali1.translate(1.015f, 0.77f, -1.4f);
+            pagarTali1.translate(0.0f, 0.0f, 0.0f);
+            listarena.Add(pagarTali1);
+
+            var pagarTali2 = new Asset3d(new Vector3(1, 0.854f, 0.752f));
+            pagarTali2.prepareVertices();
+            pagarTali2.setControlCoordinate(0.0f, 0.0f, 0.0f);
+            pagarTali2.setControlCoordinate(0.0f, 0.5f, 1.8f);
+            pagarTali2.setControlCoordinate(0.0f, -0.8f, 2.83f);
+            List<Vector3> _verticesBezierPagarTali2 = pagarTali2.createCurveBazier();
+            pagarTali2.setVertices(_verticesBezierPagarTali2);
+            pagarTali2.translate(-1.015f, 0.77f, -1.4f);
+            listarena.Add(pagarTali2);
+
             #endregion
 
             #region awan
@@ -460,9 +481,27 @@ namespace FallGuys
             jendela3.translate(-0.855f, 0.2f, 0.7f);
             balonudara.Add(jendela3);
 
-            var sumberAsap = new Asset3d(new Vector3(0f, 0f, 1f));
-            sumberAsap.createEllipsoid(1.2f, 1.77f, 0.71f, 0f, 0f, 0f, 10, 10);
-            balonudara.Add(sumberAsap);
+            var taliBalon1 = new Asset3d(new Vector3(0.8f, 0f, 0f));
+            taliBalon1.prepareVertices();
+            taliBalon1.setControlCoordinate(0f, 0f, 0f);
+            taliBalon1.setControlCoordinate(0f, -0.175f, -0.5f);
+            taliBalon1.setControlCoordinate(0f, -0.525f, -0.5f);
+            taliBalon1.setControlCoordinate(0f, -0.7f, 0f);
+            List<Vector3> _verticesBezierTaliBalon1 = taliBalon1.createCurveBazier();
+            taliBalon1.setVertices(_verticesBezierTaliBalon1);
+            taliBalon1.translate(-0.77f, 2.15f, 0.7f);
+            balonudara.Add(taliBalon1);
+
+            var taliBalon2 = new Asset3d(new Vector3(0.8f, 0f, 0f));
+            taliBalon2.prepareVertices();
+            taliBalon2.setControlCoordinate(0f, 0f, 0f);
+            taliBalon2.setControlCoordinate(0f, -0.175f, 0.5f);
+            taliBalon2.setControlCoordinate(0f, -0.525f, 0.5f);
+            taliBalon2.setControlCoordinate(0f, -0.7f, 0f);
+            List<Vector3> _verticesBezierTaliBalon2 = taliBalon2.createCurveBazier();
+            taliBalon2.setVertices(_verticesBezierTaliBalon2);
+            taliBalon2.translate(-0.77f, 2.15f, 0.7f);
+            balonudara.Add(taliBalon2);
 
             #endregion
 
