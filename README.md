@@ -12,7 +12,7 @@
 
 💩 Github 💩
 
-➡ https://github.com/albertirgi/grafkom_kelompok3
+➡ https://github.com/albertirgi/ComputerGraphics-MidTest
 
 -------------------------------------------------------------------------------
 
